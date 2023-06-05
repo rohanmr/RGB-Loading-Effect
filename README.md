@@ -1,6 +1,8 @@
 # RGB-Loading-Effect
 
-Download The Code and Run on Live-Server
+Download the Code and Open in VS Code. 
+
+Run on Live-Server.
 
 Output Image:
 
